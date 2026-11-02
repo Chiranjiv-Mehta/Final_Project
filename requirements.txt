@@ -1,0 +1,5 @@
+spacy
+textblob
+pandas
+scikit-learn
+numpy

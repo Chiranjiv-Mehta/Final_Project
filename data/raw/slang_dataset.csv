@@ -1,0 +1,161 @@
+ID,Sentence,Slang,Meaning,Context_Words,Category,Sentiment
+1,"This song is fire, I can't stop replaying it.",fire,amazing/excellent,"song, can't, stop, replaying",Music/Social,positive
+2,Bro that new sneaker drop is absolute fire.,fire,amazing/excellent,"sneaker, drop, absolute",Music/Social,positive
+3,Her verse on the last track was fire.,fire,amazing/excellent,"last, track",Music/Social,positive
+4,"The new season of the show is fire, you have to watch it.",fire,amazing/excellent,"show, watch",Music/Social,positive
+5,That comeback he just made was fire.,fire,amazing/excellent,made,Music/Social,positive
+6,This playlist is straight fire for a road trip.,fire,amazing/excellent,"playlist, straight, road, trip",Music/Social,positive
+7,"The chef's new dish is fire, best thing I've eaten all year.",fire,amazing/excellent,"chef's, new, dish, best, thing, i've, eaten",Music/Social,positive
+8,Their live performance last night was fire.,fire,amazing/excellent,"performance, last, night",Music/Social,positive
+9,The dunk he just landed was fire.,fire,amazing/excellent,landed,Music/Social,positive
+10,"This meme is fire, send it to the group chat.",fire,amazing/excellent,"meme, send",Music/Social,positive
+11,Fire broke out in the building late last night.,fire,literal combustion,broke,Emergency/News,negative
+12,Firefighters battled the fire for over six hours.,fire,literal combustion,"firefighters, battled, six, hours",Emergency/News,negative
+13,The forest fire has spread across three counties.,fire,literal combustion,"forest, spread, across, three",Emergency/News,negative
+14,A fire alarm went off in the office this morning.,fire,literal combustion,"alarm, went, off",Emergency/News,negative
+15,The fire destroyed most of the warehouse before it was contained.,fire,literal combustion,destroyed,Emergency/News,negative
+16,Residents were evacuated after a fire started in the kitchen.,fire,literal combustion,"evacuated, after, started, kitchen",Emergency/News,negative
+17,The fire department responded to the fire within minutes.,fire,literal combustion,"department, responded",Emergency/News,negative
+18,Smoke from the fire was visible for miles.,fire,literal combustion,"smoke, from, visible, miles",Emergency/News,negative
+19,The candle tipped over and started a small fire.,fire,literal combustion,"started, small",Emergency/News,negative
+20,Investigators are trying to determine what caused the fire.,fire,literal combustion,"determine, what, caused",Emergency/News,negative
+21,"That match was sick, best game I've seen all season.",sick,amazing/impressive,"match, best, game, i've, seen",Sports/Social,positive
+22,His new trick on the skateboard was sick.,sick,amazing/impressive,skateboard,Sports/Social,positive
+23,The graphics in this game are sick.,sick,amazing/impressive,game,Sports/Social,positive
+24,That was a sick goal in the last minute.,sick,amazing/impressive,"goal, last",Sports/Social,positive
+25,Her new tattoo design is sick.,sick,amazing/impressive,"new, tattoo, design",Sports/Social,positive
+26,The stunt in that movie trailer looked sick.,sick,amazing/impressive,"movie, trailer, looked",Sports/Social,positive
+27,"This new phone camera is sick, look at the detail.",sick,amazing/impressive,"new, phone, camera, look, detail",Sports/Social,positive
+28,That guitar solo was absolutely sick.,sick,amazing/impressive,"guitar, solo, absolutely",Sports/Social,positive
+29,The choreography in the music video is sick.,sick,amazing/impressive,"music, video",Sports/Social,positive
+30,He pulled off a sick combo in the fighting game.,sick,amazing/impressive,"pulled, off, combo, fighting",Sports/Social,positive
+31,He is feeling sick and stayed home from school.,sick,ill/unwell,"feeling, stayed, home, from",Health,negative
+32,She's been sick with a fever since yesterday.,sick,ill/unwell,"she's, fever, since",Health,negative
+33,I felt sick after eating the leftover food.,sick,ill/unwell,"felt, after, eating, leftover",Health,negative
+34,The kids got sick from the flu going around school.,sick,ill/unwell,"kids, got, from, flu, going",Health,negative
+35,He looked really sick during the meeting today.,sick,ill/unwell,"looked, during, meeting, today",Health,negative
+36,She called in sick to work this morning.,sick,ill/unwell,"called, work, morning",Health,negative
+37,My stomach feels sick after that long car ride.,sick,ill/unwell,"stomach, feels, after, long, car",Health,negative
+38,He's too sick to travel this weekend.,sick,ill/unwell,"he's, too, travel, weekend",Health,negative
+39,The whole family got sick with a cold last week.,sick,ill/unwell,"whole, family, got, cold, last",Health,negative
+40,She's been sick in bed for three days straight.,sick,ill/unwell,"she's, bed, three",Health,negative
+41,"I'm cooked after that exam, I barely finished on time.",cooked,in trouble/exhausted,"i'm, after, exam",Exams/Social,negative
+42,We are so cooked if the boss finds out about this.,cooked,in trouble/exhausted,"boss, finds",Exams/Social,negative
+43,"He's cooked, he didn't study at all for the final.",cooked,in trouble/exhausted,"he's, didn't, study",Exams/Social,negative
+44,"I'm cooked, I have three deadlines due tomorrow.",cooked,in trouble/exhausted,"i'm, three, deadlines",Exams/Social,negative
+45,She's cooked after pulling an all-nighter for the project.,cooked,in trouble/exhausted,"she's, after, pulling, all",Exams/Social,negative
+46,If we miss this flight we're absolutely cooked.,cooked,in trouble/exhausted,"flight, we're, absolutely",Exams/Social,negative
+47,"I'm cooked, my legs are done after that marathon.",cooked,in trouble/exhausted,"i'm, legs, done",Exams/Social,negative
+48,"He's cooked, the coach benched him after that mistake.",cooked,in trouble/exhausted,"he's, coach, benched, him",Exams/Social,negative
+49,We're cooked if this presentation doesn't go well.,cooked,in trouble/exhausted,"we're, presentation, doesn't",Exams/Social,negative
+50,"I'm cooked, I forgot to submit the assignment.",cooked,in trouble/exhausted,"i'm, forgot, submit",Exams/Social,negative
+51,The chicken is cooked and ready to serve.,cooked,food prepared,"chicken, ready, serve",Food,neutral
+52,Make sure the rice is fully cooked before eating.,cooked,food prepared,"rice, fully, before, eating",Food,neutral
+53,"The steak was cooked medium rare, just how I like it.",cooked,food prepared,"steak, medium, rare, how",Food,neutral
+54,She cooked dinner for the whole family tonight.,cooked,food prepared,"dinner, whole",Food,neutral
+55,"The vegetables are cooked, you can turn off the stove.",cooked,food prepared,"vegetables, turn, off",Food,neutral
+56,He cooked breakfast for everyone this morning.,cooked,food prepared,"breakfast, everyone",Food,neutral
+57,The pasta needs to be cooked for ten more minutes.,cooked,food prepared,"pasta, needs, ten, minutes",Food,neutral
+58,The fish was cooked perfectly on the grill.,cooked,food prepared,"fish, perfectly, grill",Food,neutral
+59,"The eggs are cooked, they're ready on the plate.",cooked,food prepared,"eggs, they're, ready",Food,neutral
+60,The stew has been cooked slowly all afternoon.,cooked,food prepared,"stew, slowly, all, afternoon",Food,neutral
+61,He totally ghosted me after our third date.,ghost,to stop responding/disappear,,Relationships/Social,negative
+62,She ghosted the group chat and never replied.,ghost,to stop responding/disappear,,Relationships/Social,negative
+63,My friend ghosted me and I haven't heard from him in weeks.,ghost,to stop responding/disappear,,Relationships/Social,negative
+64,The recruiter ghosted me after the final interview.,ghost,to stop responding/disappear,,Relationships/Social,negative
+65,He ghosted our project team right before the deadline.,ghost,to stop responding/disappear,,Relationships/Social,negative
+66,She got ghosted by the guy she matched with online.,ghost,to stop responding/disappear,,Relationships/Social,negative
+67,My roommate ghosted me on rent this month.,ghost,to stop responding/disappear,,Relationships/Social,negative
+68,The client ghosted us after we sent the invoice.,ghost,to stop responding/disappear,,Relationships/Social,negative
+69,He ghosted everyone at the party without saying bye.,ghost,to stop responding/disappear,,Relationships/Social,negative
+70,I got ghosted by the seller after paying the deposit.,ghost,to stop responding/disappear,,Relationships/Social,negative
+71,The old house is said to be haunted by a ghost.,ghost,literal spirit/apparition,"haunted, by",Supernatural,neutral
+72,They claimed to see a ghost in the abandoned hallway.,ghost,literal spirit/apparition,"claimed, see, abandoned, hallway",Supernatural,neutral
+73,The legend says a ghost still wanders the castle at night.,ghost,literal spirit/apparition,"legend, says, still, wanders, castle",Supernatural,neutral
+74,Visitors reported hearing a ghost in the attic.,ghost,literal spirit/apparition,"visitors, reported, hearing, attic",Supernatural,neutral
+75,The movie is about a ghost trapped in an old mansion.,ghost,literal spirit/apparition,"movie, trapped, old",Supernatural,neutral
+76,She swears she saw a ghost near the cemetery gate.,ghost,literal spirit/apparition,"swears, saw, near, cemetery, gate",Supernatural,neutral
+77,The tour guide told us a ghost story about the hotel.,ghost,literal spirit/apparition,"guide, told, us, story, hotel",Supernatural,neutral
+78,A ghost supposedly appears in the mirror at midnight.,ghost,literal spirit/apparition,"supposedly, appears",Supernatural,neutral
+79,Local folklore describes a ghost that guards the bridge.,ghost,literal spirit/apparition,"local, folklore, describes, guards, bridge",Supernatural,neutral
+80,The children were scared of the ghost story around the campfire.,ghost,literal spirit/apparition,"scared, story, around, campfire",Supernatural,neutral
+81,The party last night was absolutely lit.,lit,exciting/fun,"last, night, absolutely",Party/Social,positive
+82,"This concert is lit, the crowd is going wild.",lit,exciting/fun,"concert, crowd, going",Party/Social,positive
+83,That festival was lit from start to finish.,lit,exciting/fun,"festival, from, start, finish",Party/Social,positive
+84,The energy in the stadium tonight is lit.,lit,exciting/fun,"stadium, tonight",Party/Social,positive
+85,"Their new album drop is lit, everyone's talking about it.",lit,exciting/fun,"new, album, drop, everyone's, talking",Party/Social,positive
+86,The DJ set at the club was lit.,lit,exciting/fun,club,Party/Social,positive
+87,Game night at his place was so lit.,lit,exciting/fun,place,Party/Social,positive
+88,This new bar has a really lit atmosphere.,lit,exciting/fun,"bar, atmosphere",Party/Social,positive
+89,"The graduation party was lit, best night of the summer.",lit,exciting/fun,"graduation, party, best, night",Party/Social,positive
+90,That halftime show was lit.,lit,exciting/fun,"halftime, show",Party/Social,positive
+91,The candles were lit around the room for the dinner.,lit,illuminated/on fire,"candles, around, room",Literal,neutral
+92,She lit the fireplace to warm up the living room.,lit,illuminated/on fire,"fireplace, warm",Literal,neutral
+93,The streetlights were lit as the sun went down.,lit,illuminated/on fire,"streetlights, sun, went",Literal,neutral
+94,He lit a match to start the campfire.,lit,illuminated/on fire,"match, start",Literal,neutral
+95,The lanterns were lit for the evening festival.,lit,illuminated/on fire,"lanterns, evening, festival",Literal,neutral
+96,The stove was lit and ready for cooking.,lit,illuminated/on fire,"stove, ready, cooking",Literal,neutral
+97,The torches were lit along the pathway.,lit,illuminated/on fire,"torches, along, pathway",Literal,neutral
+98,She lit a candle for the birthday cake.,lit,illuminated/on fire,candle,Literal,neutral
+99,The bonfire was lit as everyone gathered around.,lit,illuminated/on fire,"bonfire, everyone, gathered, around",Literal,neutral
+100,The fireworks were lit right at midnight.,lit,illuminated/on fire,"fireworks, right, midnight",Literal,neutral
+101,"I'm dead, that joke was too funny.",dead,extremely funny,"i'm, joke, too",Humor/Social,positive
+102,"This meme has me dead, I can't stop laughing.",dead,extremely funny,"meme, me, can't, stop, laughing",Humor/Social,positive
+103,She sent a video that left me dead laughing.,dead,extremely funny,"video, left, me, laughing",Humor/Social,positive
+104,"I'm dead, he actually said that in the meeting.",dead,extremely funny,"i'm, actually, said",Humor/Social,positive
+105,That comedian's set had the whole crowd dead.,dead,extremely funny,"whole, crowd",Humor/Social,positive
+106,"I'm dead, look at what the cat just did.",dead,extremely funny,"i'm, look, what",Humor/Social,positive
+107,"This caption is sending me, I'm dead.",dead,extremely funny,"sending, me, i'm",Humor/Social,positive
+108,He's dead after seeing that plot twist coming.,dead,extremely funny,"he's, after, seeing, plot",Humor/Social,positive
+109,"I'm dead, that impression was too accurate.",dead,extremely funny,"i'm, impression, too",Humor/Social,positive
+110,The group chat is dead from that joke.,dead,extremely funny,"group, chat, from, joke",Humor/Social,positive
+111,The plant has been dead for weeks now.,dead,no longer alive,"plant, weeks, now",Literal,negative
+112,Scientists confirmed the ancient tree is dead.,dead,no longer alive,"ancient, tree",Literal,negative
+113,The battery in my phone is completely dead.,dead,no longer alive,"phone, completely",Literal,negative
+114,The old oak tree in the yard finally died and is dead.,dead,no longer alive,"finally, died",Literal,negative
+115,The signal on my phone has been dead all day.,dead,no longer alive,"phone, all, day",Literal,negative
+116,"The engine is dead, the car won't start.",dead,no longer alive,"engine, car, won't, start",Literal,negative
+117,The garden looks dead after the frost last night.,dead,no longer alive,"garden, looks, after, frost, last",Literal,negative
+118,His grandfather passed away and is now dead.,dead,no longer alive,"away, now",Literal,negative
+119,The flowers are dead from lack of water.,dead,no longer alive,"flowers, from, lack, water",Literal,negative
+120,The Wi-Fi connection has been dead since morning.,dead,no longer alive,"fi, connection, since, morning",Literal,negative
+121,He's still salty about losing the game last night.,salty,upset/bitter,"he's, still, losing, game",Social,negative
+122,She got salty after her comment was ignored.,salty,upset/bitter,"got, after, comment",Social,negative
+123,Don't be salty just because you lost the bet.,salty,upset/bitter,"don't, because, lost",Social,negative
+124,He's salty that he wasn't picked for the team.,salty,upset/bitter,"he's, wasn't, picked",Social,negative
+125,They got salty after the referee's bad call.,salty,upset/bitter,"got, after, referee's, bad",Social,negative
+126,She's been salty ever since the breakup.,salty,upset/bitter,"she's, ever, since, breakup",Social,negative
+127,He's salty about not getting the promotion.,salty,upset/bitter,"he's, getting",Social,negative
+128,The fans got salty after the team's early exit.,salty,upset/bitter,"fans, got, after, team's, early",Social,negative
+129,She's salty that her idea got rejected in the meeting.,salty,upset/bitter,"she's, idea, got",Social,negative
+130,He's salty about missing out on the concert tickets.,salty,upset/bitter,"he's, missing",Social,negative
+131,The soup tastes too salty for my liking.,salty,literal taste,"soup, tastes, too, liking",Food,neutral
+132,The chips were extremely salty straight out of the bag.,salty,literal taste,"chips, extremely, straight",Food,neutral
+133,"This broth is salty, add a bit more water.",salty,literal taste,"broth, add, bit",Food,neutral
+134,The fries at that restaurant are always salty.,salty,literal taste,"restaurant, always",Food,neutral
+135,The seawater tasted salty when I accidentally swallowed some.,salty,literal taste,"seawater, tasted, when, accidentally, swallowed",Food,neutral
+136,The bacon was crispy and salty this morning.,salty,literal taste,"bacon, crispy, morning",Food,neutral
+137,The popcorn was buttery and salty at the theater.,salty,literal taste,"popcorn, buttery, theater",Food,neutral
+138,"The pretzels are salty, they go great with beer.",salty,literal taste,"pretzels, go, great",Food,neutral
+139,The pickles were more salty than sour.,salty,literal taste,"pickles, sour",Food,neutral
+140,The ham was too salty for the sandwich.,salty,literal taste,"ham, too, sandwich",Food,neutral
+141,That was a killer performance on stage tonight.,killer,excellent/impressive,"performance, stage, tonight",Social,positive
+142,She has a killer smile that lights up the room.,killer,excellent/impressive,"smile, lights",Social,positive
+143,He gave a killer presentation at the conference.,killer,excellent/impressive,"gave, presentation, conference",Social,positive
+144,This app has a killer new feature everyone loves.,killer,excellent/impressive,"app, new, feature, everyone, loves",Social,positive
+145,That was a killer play in the final quarter.,killer,excellent/impressive,"play, final",Social,positive
+146,The band delivered a killer set at the festival.,killer,excellent/impressive,"band, delivered, set, festival",Social,positive
+147,He has a killer resume for this job.,killer,excellent/impressive,"resume, job",Social,positive
+148,That's a killer deal on the new laptop.,killer,excellent/impressive,"that's, deal, new",Social,positive
+149,She wrote a killer essay for her application.,killer,excellent/impressive,"wrote, essay, application",Social,positive
+150,The team pulled off a killer comeback in the second half.,killer,excellent/impressive,"team, pulled, off, comeback, second",Social,positive
+151,Police are still searching for the killer.,killer,literal murderer,"still, searching",Crime/News,negative
+152,The killer was arrested after a two-week manhunt.,killer,literal murderer,"arrested, after",Crime/News,negative
+153,Investigators believe the killer knew the victim.,killer,literal murderer,"investigators, believe, knew, victim",Crime/News,negative
+154,The trial of the accused killer begins next month.,killer,literal murderer,"trial, accused, begins, next, month",Crime/News,negative
+155,Witnesses described the killer fleeing the scene.,killer,literal murderer,"witnesses, described, fleeing, scene",Crime/News,negative
+156,The serial killer was finally identified through DNA evidence.,killer,literal murderer,"serial, finally, identified, through",Crime/News,negative
+157,The killer left no fingerprints at the crime scene.,killer,literal murderer,"left, fingerprints",Crime/News,negative
+158,Detectives are questioning a suspect linked to the killer.,killer,literal murderer,"suspect, linked",Crime/News,negative
+159,The documentary examines the case of the notorious killer.,killer,literal murderer,"case, notorious",Crime/News,negative
+160,The killer was sentenced to life in prison.,killer,literal murderer,"sentenced, life",Crime/News,negative
